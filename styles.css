@@ -45,3 +45,9 @@ button {
   width: 100px;
   border-radius: 40px;
 }
+
+.font-light {
+  color: rgb(50, 50, 50);
+  /* font-style: italic; */
+  font-weight: 300;
+}
